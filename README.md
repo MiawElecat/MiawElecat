@@ -1,9 +1,11 @@
-# Halo, Aku Miaw
+# Hello, I'm Miaw
 
-Saya Manusia
+Human
 
-## 🛠 Keahlian
-- Tidur
+## 🛠 Skills
+- Code
+- Sleep
+- Eat
 
-## 📈 Statistik GitHub
+## 📈 GitHub Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiawElecat&show_icons=true)
