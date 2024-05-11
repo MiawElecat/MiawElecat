@@ -1,6 +1,5 @@
 # Hello, I'm Miaw
-
-Human
+I'm also a cat!
 
 ## 🛠 Skills
 - Code
