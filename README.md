@@ -3,8 +3,9 @@ I'm also a cat!
 
 ## 🛠 Skills
 - Code
-- Sleep
+- Game
 - Eat
+- Sleep
 
 ### Code Language
 <p align="left">
