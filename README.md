@@ -2,7 +2,7 @@
 I'm also a cat!
 
 ## 🛠 Skills
-- Codeee
+- Code
 - Game
 - Eat
 - Sleep
