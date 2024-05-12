@@ -17,7 +17,7 @@ I'm also a cat!
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="csharp" /></a>
 </p>
 
-## 👨🏻‍💻 Activity
+## ⌚ Activity
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiawElecat&theme=onedark)
 
 ## 📈 GitHub Statistics (Pemula bang)
