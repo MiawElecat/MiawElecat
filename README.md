@@ -2,6 +2,7 @@
 I'm also a cat!
 
 ## 🛠 Skills
+- Pray
 - Code
 - Game
 - Eat
