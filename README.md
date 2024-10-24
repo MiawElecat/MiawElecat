@@ -1,5 +1,5 @@
 # Hello, I'm Miaw
-I'm also a cat!
+Human
 
 ## 🛠 Skills
 - Pray
