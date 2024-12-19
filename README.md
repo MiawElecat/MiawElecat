@@ -27,5 +27,5 @@ Human
 ## ⌚ Activity
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiawElecat&theme=onedark)
 
-## 📈 GitHub Statistics (Pemula bang)
+## 📈 GitHub Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiawElecat&show_icons=true)
