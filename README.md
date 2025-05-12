@@ -48,4 +48,6 @@ Human
   <img src="https://i.imgur.com/YPrEALU.gif" width="150" style="display:inline" />
   <img src="https://i.imgur.com/jdgKhZh.gif" width="150" style="display:inline" />
   <img src="https://i.imgur.com/zSMO5kq.gif" width="150" style="display:inline" />
+  <img src="https://i.imgur.com/48VUmyx.gif" width="150" style="display:inline" />
+  <img src="https://i.imgur.com/xhsCqPU.gif" width="150" style="display:inline" />
 </p>
