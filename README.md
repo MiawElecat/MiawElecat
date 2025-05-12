@@ -37,3 +37,13 @@ Human
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiawElecat&theme=onedark)
 ## 📈 GitHub Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiawElecat&show_icons=true)
+
+## A Little Something Extra
+<p align="center">
+  <img src="https://media.tenor.com/6F55Wn54-VIAAAAC/blue-archive.gif" alt="Blue Archive" width="200">
+  <img src="https://media.tenor.com/l15jJ9i6-tUAAAAAC/blue-archive-hikari.gif" alt="Blue Archive Hikari" width="200">
+  <img src="https://media.tenor.com/zF304DT-F74AAAAAC/tendou-alice-aris-pokedance.gif" alt="Tendou Alice Pokedance" width="200">
+  <img src="https://media.tenor.com/447m-9s516YAAAAAC/pokedance-hanaoka-yuzu.gif" alt="Pokedance Hanaoka Yuzu" width="200">
+  <img src="https://media.tenor.com/x_1o43F9_7YAAAAAC/pokedance-momoi-saiba.gif" alt="Pokedance Momoi Saiba" width="200">
+  <img src="https://media.tenor.com/h451v1-55yIAAAAC/midori-pokedance-saiba.gif" alt="Midori Pokedance Saiba" width="200">
+</p>
