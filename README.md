@@ -19,9 +19,6 @@ Human
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img height="50" width="50" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="python" />
   </a>
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-    <img height="50" width="50" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" alt="rust" />
-  </a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img height="50" width="50" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="csharp" />
   </a>
