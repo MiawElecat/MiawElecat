@@ -39,10 +39,6 @@ Human
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiawElecat&show_icons=true)
 
 ## A Little Something Extra
+## A Little Something Extra
 
 ![Blue Archive](https://media.tenor.com/6F55Wn54-VIAAAAC/blue-archive.gif)
-![Blue Archive Hikari](https://media.tenor.com/l15jJ9i6-tUAAAAAC/blue-archive-hikari.gif)
-![Tendou Alice Pokedance](https://media.tenor.com/zF304DT-F74AAAAAC/tendou-alice-aris-pokedance.gif)
-![Pokedance Hanaoka Yuzu](https://media.tenor.com/447m-9s516YAAAAAC/pokedance-hanaoka-yuzu.gif)
-![Pokedance Momoi Saiba](https://media.tenor.com/x_1o43F9_7YAAAAAC/pokedance-momoi-saiba.gif)
-![Midori Pokedance Saiba](https://media.tenor.com/h451v1-55yIAAAAC/midori-pokedance-saiba.gif)
