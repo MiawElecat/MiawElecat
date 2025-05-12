@@ -39,6 +39,8 @@ Human
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiawElecat&show_icons=true)
 
 ## ✨ A Little Something Extra
-<img src="https://i.imgur.com/x8TlLou.gif" width="150" />
-<img src="https://i.imgur.com/hBDxMKQ.gif" width="150" />
-<img src="https://i.imgur.com/7d5SMe0.gif" width="150" />
+<p>
+  <img src="https://i.imgur.com/x8TlLou.gif" width="150" style="display:inline" />
+  <img src="https://i.imgur.com/hBDxMKQ.gif" width="150" style="display:inline" />
+  <img src="https://i.imgur.com/7d5SMe0.gif" width="150" style="display:inline" />
+</p>
