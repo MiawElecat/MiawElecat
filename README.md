@@ -49,7 +49,7 @@ Human
   <img src="https://i.imgur.com/jdgKhZh.gif" width="150" style="display:inline" />
   <img src="https://i.imgur.com/zSMO5kq.gif" width="150" style="display:inline" />
   <img src="https://i.imgur.com/48VUmyx.gif" width="150" style="display:inline" />
-  <img src="https://i.imgur.com/xhsCqPU.gif" width="150" style="display:inline" />
+  <img src="https://i.imgur.com/xhsCqPU.gif" width="190" style="display:inline" />
   <img src="https://i.imgur.com/MQC8WvO.gif" width="150" style="display:inline" />
   <img src="https://i.imgur.com/z1NJrkV.gif" width="150" style="display:inline" />
   <img src="https://i.imgur.com/uBbWnQ6.gif" width="150" style="display:inline" />
