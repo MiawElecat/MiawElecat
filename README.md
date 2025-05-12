@@ -1,12 +1,12 @@
-# Hello, I'm Miaw
+# Hello, I'm Miaw 👋
 Human
 
-## 🛠 Skills
-- Pray
-- Code
-- Game
-- Eat
-- Sleep
+## 🛠️ Skills
+- 🙏 Pray
+- 💻 Code
+- 🎮 Game
+- 🍽️ Eat
+- 😴 Sleep
 
 ## ⚙️ Code Language
 <p align="left">
@@ -32,8 +32,7 @@ Human
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" />
 </p>
 
-## ⌚ Activity
+## 🔭 Activity
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiawElecat&theme=onedark)
-
 ## 📈 GitHub Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiawElecat&show_icons=true)
