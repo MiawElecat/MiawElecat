@@ -20,7 +20,7 @@ Human
     <img height="50" width="50" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="python" />
   </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" />
+    <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photoshop" />
   </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" />
