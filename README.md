@@ -39,3 +39,4 @@ Human
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiawElecat&show_icons=true)
 
 ## ✨ A Little Something Extra
+![Hikari](https://i.imgur.com/x8TlLou.gif)
