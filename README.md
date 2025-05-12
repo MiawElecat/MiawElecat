@@ -41,5 +41,5 @@ Human
 ## ✨ A Little Something Extra
 <img src="https://i.imgur.com/x8TlLou.gif" width="150" />
 <img src="https://i.imgur.com/hBDxMKQ.gif" width="150" />
-![Arisu](https://imgur.com/FOW0ysc)
+![Arisu](https://i.imgur.com/WlNVCAU.gif)
 
