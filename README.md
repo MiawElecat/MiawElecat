@@ -40,3 +40,5 @@ Human
 
 ## ✨ A Little Something Extra
 <img src="https://i.imgur.com/x8TlLou.gif" width="150" />
+<img src="https://i.imgur.com/hBDxMKQ.gif" width="150" />
+<img src="https://i.imgur.com/A4fZchb.gif" width="150" />
