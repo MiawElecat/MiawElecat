@@ -46,7 +46,7 @@ Human
   <img src="https://i.imgur.com/zSMO5kq.gif" width="150" style="display:inline" />
   <img src="https://i.imgur.com/48VUmyx.gif" width="180" style="display:inline" />
   <img src="https://i.imgur.com/7d5SMe0.gif" width="150" style="display:inline" />
-  <img src="https://i.imgur.com/5aEVYZi.gif" width="150" style="display:inline" />
+  <img src="https://i.imgur.com/5aEVYZi.gif" width="180" style="display:inline" />
   <img src="https://i.imgur.com/GerQpBu.gif" width="150" style="display:inline" />
   <img src="https://i.imgur.com/YPrEALU.gif" width="150" style="display:inline" />
   <img src="https://i.imgur.com/xhsCqPU.gif" width="220" style="display:inline" />
