@@ -39,4 +39,3 @@ Human
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiawElecat&show_icons=true)
 
 ## A Little Something Extra
-<div class="tenor-gif-embed" data-postid="8577627585912084644" data-share-method="host" data-aspect-ratio="0.77381" data-width="100%"><a href="https://tenor.com/view/midori-pokedance-saiba-blue-archive-chibi-gif-8577627585912084644">Midori Pokedance GIF</a>from <a href="https://tenor.com/search/midori-gifs">Midori GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
