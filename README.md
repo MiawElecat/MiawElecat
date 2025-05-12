@@ -39,7 +39,3 @@ Human
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiawElecat&show_icons=true)
 
 ## ✨ A Little Something Extra
-
-<p align="center">
-  <img src="https://media.tenor.com/m/dwna19nhmKQAAAAd/midori-pokedance.gif](https://media1.tenor.com/m/dwna19nhmKQAAAAd/midori-pokedance.gif" alt="Midori Pokedance" width="200">
-</p>
