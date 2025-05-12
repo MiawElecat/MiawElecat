@@ -38,7 +38,7 @@ Human
 ## 📈 GitHub Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiawElecat&show_icons=true)
 
-## ✨ Something Cool
+## ✨ Extras
 <p>
   <img src="https://i.imgur.com/x8TlLou.gif" width="150" style="display:inline" />
   <img src="https://i.imgur.com/hBDxMKQ.gif" width="150" style="display:inline" />
