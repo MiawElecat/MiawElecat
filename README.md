@@ -1,12 +1,12 @@
 # Hello, I'm Miaw 👋
-Human
+Just an ordinary people who loves to be a **UI/UX Designer** and **Front-End Developer**.
 
-## 🛠️ Skills
+## 🌟
 - 🙏 Pray
 - 💻 Code
 - 🎮 Game
-- 🍽️ Eat
-- 😴 Sleep
+- 🎵 Music
+- 📖 Learn Something
 
 ## ⚙️ Code Language
 <p align="left">
